@@ -1,0 +1,9 @@
+
+.homeClass{
+    color: yellow;
+    font-size: 16px;
+}
+
+.homeClass>p{
+    font-size: 30px;
+}

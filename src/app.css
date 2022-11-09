@@ -1,0 +1,23 @@
+
+.header_1{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: antiquewhite;
+}
+.table{
+    display: flex;
+    justify-content: center;
+}
+.table_1{
+    border: 1px solid rgb(190,190,190);
+}
+h2{
+    margin: 0,auto;
+    height: 50px;
+}
+th{
+    border: 1px solid rgb(190,190,190);
+    background-color: rgb(105,105,105);
+    color:white ;
+}

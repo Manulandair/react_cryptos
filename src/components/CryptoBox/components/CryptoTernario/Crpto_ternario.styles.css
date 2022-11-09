@@ -1,0 +1,43 @@
+.criptos_02{
+    border: solid 1px; 
+    border-radius: 0.25rem;
+    /* width: 270px; */
+    margin-bottom: 10px;
+    border-left: solid 5px rgb(106, 106, 240);
+     
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    padding:10px ;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.cripto_precio :nth-child(1){
+    color: rgb(144, 162, 176);
+    font-weight: 300;
+}
+.cripto_precio{
+    display: flex;
+    justify-content: space-between;
+    font-size: 16px;
+    margin-left: 5px;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.cripto_precio :nth-child(2){
+    font-weight: 200;
+    align-self: center;
+    margin-right: 5px;
+}
+.cripto_name{
+    display: flex;
+    justify-content: center;
+}
+.colorRed{
+    color: red;
+}
+.colorGreen{
+    color: rgb(199, 231, 60);
+}
